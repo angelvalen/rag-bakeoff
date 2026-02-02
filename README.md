@@ -26,7 +26,7 @@ The report adopts a hybrid approach, combining theoretical background with empir
 **1. Installation**:
 
 ```
-git clone https://github.com/blablita3/rag-bake-off.git
+git clone https://github.com/blablita3/rag-bakeoff.git
 cd rag-bake-off
 pip install -r requirements.txt
 ```
@@ -66,7 +66,7 @@ Running the program will rewritte the `/current` directory with the obtained res
 
 ## 🎓 Acknowledgments
 
-This project was part of the *Conurso de Modelización de Problemas de Empresa*, an event organised in the [*Facultad de Ciencias Matemáticas, UCM*](https://www.matematicas.ucm.es). The [problem statement](./problem_statement.pdf) was proposed by the enterprise [*Management Solutions*](https://www.managementsolutions.com/). 
+This project was part of the *Conurso de Modelización de Problemas de Empresa*, an event organised in the [*Facultad de Ciencias Matemáticas, UCM*](https://matematicas.ucm.es/). The [problem statement](./problem_proposal.pdf) was proposed by the enterprise [*Management Solutions*](https://www.managementsolutions.com/). 
 
 **Author**: *Ángel Valencia*
 
