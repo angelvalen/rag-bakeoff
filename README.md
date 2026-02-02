@@ -26,7 +26,7 @@ The report adopts a hybrid approach, combining theoretical background with empir
 **1. Installation**:
 
 ```
-git clone https://github.com/blablita3/rag-bakeoff.git
+git clone https://github.com/angelvalen/rag-bakeoff.git
 cd rag-bake-off
 pip install -r requirements.txt
 ```
